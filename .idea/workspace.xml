@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09d0a12a-f8fc-4d50-87c3-7d4701d3ad5f" name="Default Changelist" comment="" />
+    <list default="true" id="09d0a12a-f8fc-4d50-87c3-7d4701d3ad5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IchiranRamenShop/FilaDeEspera/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IchiranRamenShop/FilaDeEspera/FilaDeEspera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IchiranRamenShop/FilaDeEspera/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/Aplicacao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/Aplicacao/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/Aplicacao/RealizarPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/Aplicacao/RealizarPedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Bebidas/Ko_Cha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Bebidas/Ko_Cha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Bebidas/O_Cha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Bebidas/O_Cha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Bebidas/Refrigerante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Bebidas/Refrigerante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Tamanhos/Grande.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trabalho_Gabriel_Moura_Heloisa_Gabriela/IchiranRamenShop/Tamanhos/Grande.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplicacao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplicacao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IchiranRamenShop/Bebidas/Ko_Cha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IchiranRamenShop/Bebidas/Ko_Cha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IchiranRamenShop/Bebidas/O_Cha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IchiranRamenShop/Bebidas/O_Cha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IchiranRamenShop/Bebidas/Refrigerante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IchiranRamenShop/Bebidas/Refrigerante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IchiranRamenShop/Pedivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IchiranRamenShop/Pedivel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IchiranRamenShop/Tamanhos/Grande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IchiranRamenShop/Tamanhos/Grande.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +33,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cy42noxBhyjhx55BAp2zMsCXOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="IchiranRamenShop.FilaDeEspera" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -52,26 +82,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1591496561787">
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1591560471753">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1591496561787" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1591546034498">
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1591560471753" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1591563562307">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591546034498" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1591546034495">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591563562307" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1591563562305">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591546034495" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1591546034493">
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591563562305" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1591563562303">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591546034493" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1591546034497">
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591563562303" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1591563562306">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591546034497" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591563562306" />
     <state width="1238" height="212" key="GridCell.Tab.1.bottom" timestamp="1591538402644">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

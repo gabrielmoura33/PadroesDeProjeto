@@ -17,6 +17,6 @@ public class Refrigerante extends Pedido {
 
     @Override
     public String getDescricao() {
-        return pedido.getDescricao() + "\n Bebida Selecionada: \t Refrigerante ";
+        return pedido.getDescricao() + "Bebida Selecionada: \t Refrigerante ";
     }
 }

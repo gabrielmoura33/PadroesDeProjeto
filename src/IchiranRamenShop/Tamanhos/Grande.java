@@ -4,9 +4,9 @@ import IchiranRamenShop.Pedido;
 import IchiranRamenShop.Pedivel;
 
 public class Grande extends Pedido {
-    private final Pedivel pedido;
+    private final Pedido pedido;
 
-    public Grande(Pedivel pedido) {
+    public Grande(Pedido pedido) {
         this.pedido = pedido;
         tamanhoSelecionado = true;
     }

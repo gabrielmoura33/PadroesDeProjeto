@@ -17,6 +17,6 @@ public class Ko_Cha extends Pedido {
 
     @Override
     public String getDescricao() {
-        return pedido.getDescricao() + "\n Bebida Selecionada: \t KO-Cha (Preto) ";
+        return pedido.getDescricao() + "Bebida Selecionada: \t KO-Cha (Preto) ";
     }
 }

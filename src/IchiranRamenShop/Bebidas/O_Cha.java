@@ -17,6 +17,6 @@ public class O_Cha extends Pedido {
 
     @Override
     public String getDescricao() {
-        return pedido.getDescricao() + "\n Bebida Selecionada: \t O-Cha (Verde) ";
+        return pedido.getDescricao() + "Bebida Selecionada: \t O-Cha (Verde) ";
     }
 }
